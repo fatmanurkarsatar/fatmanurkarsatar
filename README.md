@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/c4/c6/96/c4c696d43555c08f806375759e1b7528.png = 250x250)
+![MasterHead](https://i.pinimg.com/originals/c4/c6/96/c4c696d43555c08f806375759e1b7528.png)
 
 <h1 align="center">Hi 👋, I'm Fatma Nur KARSATAR</h1>
 <h3 align="center">management information systems student</h3>
