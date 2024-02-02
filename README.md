@@ -1,6 +1,6 @@
-<img src="https://i.pinimg.com/originals/c4/c6/96/c4c696d43555c08f806375759e1b7528.png" width=350 height=350>
-<h1 align="center">Hi 👋, I'm Fatma Nur KARSATAR</h1>
-<h3 align="center">management information systems student</h3>
+<img src="https://i.pinimg.com/originals/c4/c6/96/c4c696d43555c08f806375759e1b7528.png" width=450 height=450>
+<h1 align="left">Hi 👋, I'm Fatma Nur KARSATAR</h1>
+<h3 align="left">management information systems student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
